@@ -44,7 +44,7 @@ Shows how many people are waiting, not how many were seen or removed from the li
 The analysis describes patterns; it can't show what caused them.
 7. Tools
 R: `tidyverse` (cleaning, analysis and charts), `janitor`
-SQL: SQLite via `DBI` and `RSQLite`
+-SQL: SQLite via `DBI` and `RSQLite`
 8. How to run
 Download the NTPF outpatient CSV and save it in a `data` folder.
 Open the project in RStudio and run the scripts in order:
